@@ -85,7 +85,7 @@ skinparam useBetaStyle false
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName        "Verdana"
+skinparam defaultFontName        "Helvetica"
 skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
